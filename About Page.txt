@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    
+    <link rel="stylesheet" type="text/css" href="otterstyle.css">
+</head>
+<body>
+    <header>
+
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="anatomy.hmtl">Anatomy</a></li>
+            <li><a href="behavior.html">Behavior</a></li>
+            <li><a href="diet.html">Diet</a></li>
+            <li><a href="reproduction.html">Reproduction</a></li>
+            <li><a href="habitat.html">Habitat</a></li>
+            <li><a href="gallery.html">Gallery</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h1> 
+        About Page
+        </h1>
+        <h3>
+            Dev Team
+        </h3>
+	<ul>
+		<li>Armon Porter - Product Owner</li>
+		<li>Danae Ries - Scrum  Master</li>
+		<li>Ian Dietsch - Dev Team</li>
+		<li>Manish Siwakoti - Dev Team</li>
+		<li>Robert Farfsing - Dev Team</li>
+	</ul>
+	<p>Twitter: </p>
+	<p>Email: </p>
+	<p>Dev Team Site</p>
+	<p>Contact Page</p>
+
+    </main>
+    <footer>
+
+    </footer>
+</body>
+</html>

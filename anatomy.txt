@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color:paleturquoise;
+        }
+
+        nav ul li {
+            display:inline-block;
+            list-style: none;
+            background-color: white;
+            font-size: 1em;
+            padding: 5px;
+        }
+
+        #right {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <img src="">
+    <div>
+        <nav>
+            <ul>
+                <li>Home</li>
+                <li>Anatomy</li>
+                <li>Behavior</li>
+                <li>Diet</li>
+                <li>Reproduction</li>
+                <li>Habitat</li>
+                <li>Gallery</li>
+            </ul>
+        </nav>
+    </div>
+    <div id="right">
+        <h1>Whole OTTER Love</h1>
+        <h3>for everybody who loves otters</h3>
+    </div>
+</body>
+</html>
